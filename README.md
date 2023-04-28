@@ -21,3 +21,17 @@ Lastly, it may be useful to implement a loop that allows the user to repeatedly 
 
 #ROOM ALLOTMENT SYSTEM
 
+Java code for a module that handles grievances related to the hostel. It includes two methods, retrieveStudentDetails and submitGrievance, as well as a grievances method that acts as the main method for the module.
+
+The grievances method prompts the user for their admission number and validates it by calling the retrieveStudentDetails method. If the admission number is invalid, the method prints an error message and returns. Otherwise, the method prompts the user to describe their grievance, creates a new Grievance object with the student's details and the description, and submits it to the hostel authorities by calling the submitGrievance method. If the submission is successful, the method prints a success message; otherwise, it prints an error message.
+
+The retrieveStudentDetails method takes an admission number as a parameter, retrieves the student details from the hostel database based on the admission number, and returns a Student object with the details. If the admission number is invalid, the method returns null.
+
+The submitGrievance method takes a Grievance object as a parameter, submits it to the hostel authorities, and returns a boolean value indicating whether the submission was successful (true) or not (false). The code for actually submitting the grievance is not included in the method and must be implemented separately.
+
+
+
+# Grievance
+
+
+
