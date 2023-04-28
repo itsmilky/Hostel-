@@ -3,7 +3,6 @@ This system must divide in 4 parts:-
 1.Admission: With a hostel management system, students can apply for admission online and fill in all the necessary details such as personal information, academic qualifications, and hostel preferences.
 
 2.Fee payment: Hostel management systems can integrate payment gateways to allow students to pay their fees online. Students can view their fees, generate invoices, and make payments using the payment gateway integrated into the system.
-![image](https://user-images.githubusercontent.com/112379141/235175241-b56bc8e9-9a68-4548-9617-bbcfb4327d49.png)
 
 3.Room allotment: The hostel management system can automate the process of room allotment. Students can apply for the room of their choice online, and the system will allocate the rooms based on availability and preferences.
 
