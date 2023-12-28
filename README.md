@@ -31,7 +31,4 @@ The submitGrievance method takes a Grievance object as a parameter, submits it t
 
 
 
-# Grievance
-
-
 
